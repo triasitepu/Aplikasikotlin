@@ -17,5 +17,7 @@ fun makeFish() {
     println("Plecostomus: ${pleco.color}")
     pleco.eat()
 }
+ fun main() {
+     makeFish()
 
-
+ }

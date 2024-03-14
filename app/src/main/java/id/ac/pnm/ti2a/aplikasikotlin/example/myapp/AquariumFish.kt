@@ -24,6 +24,3 @@ class PrintingFishAction(val food: String) : FishAction {
 object GoldColor : FishColor {
     override val color = "gold"
 }
-
-
-
